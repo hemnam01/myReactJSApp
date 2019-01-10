@@ -1,3 +1,5 @@
-# First setup out put in console
+# First setup 
+
+##View output in console
 
 npm run build
